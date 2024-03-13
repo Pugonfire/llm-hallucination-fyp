@@ -13,3 +13,6 @@ There are 4 sections as denoted by the worksheets:
 
 ### Data Analytics
 The Python notebook used to analyse the experiment results can be found in the file “analysis.ipynb”. The input expected is in the same format as the Experiment Results above. 
+
+### Prompts
+Go to the `prompts` directory to find the prompt(s) used for the experiment. You may drag and drop the prompt into a cloned `llama.cpp/prompts` directory to use it to reproduce the results. 
